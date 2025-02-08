@@ -1,0 +1,4 @@
+indicators-cli
+statsmodels
+matplotlib
+pandas
