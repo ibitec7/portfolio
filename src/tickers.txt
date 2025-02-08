@@ -1,0 +1,4 @@
+AAPL
+ITA
+NVDA
+PPA
