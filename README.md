@@ -49,5 +49,5 @@ This project is aimed at preparing and analyzing a low-risk, moderate return por
 ## Presentation Materials
 
 For an overview of the project and detailed explanations, refer to:
-- [Project Presentation (PDF)](./presentation.pdf)
+- [Project Presentation (PDF)](./GE2260G7.pdf)
 - [Project Video Explanation](https://drive.google.com/file/d/1B-Y17R-3CZmWDVcAB368evj0cL1ToSFe/view?usp=sharing)
