@@ -1,6 +1,23 @@
 # Portfolio Analysis and Optimization Project
 
-This project is aimed at preparing and analyzing a low-risk, moderate return portfolio. The system supports the sourcing, analysis, and visualization of stock data along with an optimization workflow.
+This project is aimed at preparing and analyzing a low-risk, moderate return portfolio. The system supports the sourcing, analysis, and visualization of stock data along with an optimization workflow. The project involved creating a diversified investment portfolio combining fixed income assets and growth stocks, aimed at maximizing returns while minimizing risks. The project utilized machine learning and statistics for risk optimization and maximizing equity returns.
+
+## Key Highlights
+Portfolio Composition:
+ - 40% in Growth Stocks and ETFs: Focused on sectors with high growth potential, including technology, sustainability, and pharmaceuticals.
+ - 60% in Fixed Income Assets: Invested in US Treasury Bonds and Hong Kong Green Bonds to ensure stability and predictable returns.
+
+Risk Management:
+ - Employed hedging strategies, such as collar positions, to mitigate risks associated with market volatility.
+ - Conducted correlation analysis to ensure the diversification of assets, minimizing the risk of simultaneous losses.
+
+Performance Optimization:
+ - Used 20,000 Monte-Carlo simulations to find the risk and return profiles of the configurations. 
+ - Utilized Markowitz optimization to determine the optimal weightings for securities, achieving an expected annual return of 18.3% with an 11.5% volatility.
+
+Benchmark Comparison:
+ - The portfolio consistently outperformed the S&P 500 over time, demonstrating superior returns with lower volatility.
+ - The portfolio projected roughly 60% higher returns than the S&P500 with a 70% probability of outperforming the S&P500 in 10 years.
 
 ## Project Structure
 - **src/**: Contains the analysis script (`analyze.py`) that:
